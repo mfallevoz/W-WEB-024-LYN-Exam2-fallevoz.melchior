@@ -2,7 +2,7 @@
 
 function look_and_say($nbr)
 {
-    $arr = str_split($nbr . " ");
+    /* $arr = str_split($nbr . " ");
     $target = $arr[0];
     $count = 0;
     $result = "";
@@ -19,7 +19,9 @@ function look_and_say($nbr)
         }        
     }
 
-    return $result;
+    return $result; */
 }
+
+
 
 ?>
